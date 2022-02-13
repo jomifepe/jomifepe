@@ -15,14 +15,14 @@ I'm a Software Engineer from Portugal 🇵🇹
 
 💬 &nbsp;**Where to find me**
 
-[![linkedin logo](./img/linkedin-light.svg#gh-light-mode-only)](https://www.linkedin.com/in/jomifepe)
-[![linkedin logo](./img/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/jomifepe)
+[![linkedin logo](./img/linkedin-light.svg)](https://www.linkedin.com/in/jomifepe#gh-light-mode-only)
+[![linkedin logo](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jomifepe#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![twitter logo](./img/twitter-light.svg#gh-light-mode-only)](https://twitter.com/jomifepe)
-[![twitter logo](./img/twitter-dark.svg#gh-dark-mode-only)](https://twitter.com/jomifepe)
+[![twitter logo](./img/twitter-light.svg)](https://twitter.com/jomifepe#gh-light-mode-only)
+[![twitter logo](./img/twitter-dark.svg)](https://twitter.com/jomifepe#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![dev logo](./img/dev-light.svg#gh-light-mode-only)](https://dev.to/jomifepe)
-[![dev logo](./img/dev-dark.svg#gh-dark-mode-only)](https://dev.to/jomifepe)
+[![dev logo](./img/dev-light.svg)](https://dev.to/jomifepe#gh-light-mode-only)
+[![dev logo](./img/dev-dark.svg)](https://dev.to/jomifepe#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![medium logo](./img/medium-light.svg#gh-light-mode-only)](https://medium.com/@jomifepe)
-[![medium logo](./img/medium-dark.svg#gh-dark-mode-only)](https://medium.com/@jomifepe)
+[![medium logo](./img/medium-light.svg)](https://medium.com/@jomifepe#gh-light-mode-only)
+[![medium logo](./img/medium-dark.svg)](https://medium.com/@jomifepe#gh-dark-mode-only)
