@@ -7,7 +7,7 @@ I'm a Software Engineer from Portugal 🇵🇹
 
 📕 &nbsp;**I also like to write from time to time**
 <!-- BLOG-POST-LIST:START -->
-
+- [Clean up your React component types](https://medium.com/xgeeks/clean-up-your-react-component-types-45acec85d4c3?source=rss-d623c5a533af------2)
 <!-- BLOG-POST-LIST:END -->
 
 💬 &nbsp;**Reach out to me**
