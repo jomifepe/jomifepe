@@ -14,4 +14,5 @@ jobs:
       - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
+          commit_message: "📖 update readme with latest blog posts"
           feed_list: "https://medium.com/feed/@jomifepe"
