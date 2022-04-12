@@ -2,7 +2,7 @@
 
 I'm a Software Engineer from Portugal 🇵🇹
 
-- ❤️ &nbsp;I'm passionate about **web** and **hybrid apps**
+- ❤️ &nbsp;I'm passionate about **web** and **hybrid mobile apps**
 - ⚔️ &nbsp;My current weapons of choices are **TypeScript** with **React**/**Next.js** and **React Native**
 - 🌱 &nbsp;I'm currently trying to write more blogs post
 - 🚵🏻‍♀️ &nbsp;Fun fact: Besides coding I also enjoy mountain biking 
