@@ -2,16 +2,7 @@
 
 I'm a Software Engineer from Portugal 🇵🇹
 
-- ❤️ &nbsp;I'm passionate about **web** and **hybrid mobile apps**
-- ⚔️ &nbsp;My current weapons of choices are **TypeScript** with **React**/**Next.js** and **React Native**
-- 🌱 &nbsp;I'm currently trying to write more blog posts
-- 🚵🏻‍♀️ &nbsp;Fun fact: Besides coding I also enjoy mountain biking 
-
-📕 &nbsp;**Latest blog posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [Clean up your React component types](https://medium.com/xgeeks/clean-up-your-react-component-types-45acec85d4c3?source=rss-d623c5a533af------2)
-<!-- BLOG-POST-LIST:END -->
+I'm passionate about **web** and **hybrid mobile apps**, primarily working with **TypeScript** in **React**/**Next.js**, and **React Native**
 
 💬 &nbsp;**Where to find me**
 
