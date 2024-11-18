@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyo 👋
 
 I'm a Software Engineer from Portugal 🇵🇹
 
