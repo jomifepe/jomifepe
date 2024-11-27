@@ -4,6 +4,10 @@ I'm a Software Engineer from Portugal 🇵🇹
 
 💙 &nbsp;Likely building **web** or **hybrid mobile apps** using **TypeScript** and some form of **React** or **React Native**.
 
+```bash
+npx jomifepe
+```
+
 💬 &nbsp;**Where to find me**
 
 [![linkedin logo](./img/linkedin-light.svg)](https://www.linkedin.com/in/jomifepe#gh-dark-mode-only)
