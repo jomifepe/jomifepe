@@ -53,7 +53,7 @@ const me = boxen(
     borderStyle: "single",
     borderColor: "blue",
     width: 70,
-  }
+  },
 );
 
 console.info(me);
