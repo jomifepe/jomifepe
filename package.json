@@ -10,8 +10,9 @@
   },
   "type": "module",
   "scripts": {
-    "dev": "tsc-watch --onSuccess 'node ./dist/index.js'",
     "build": "yarn clean && tsc",
+    "dev": "tsc-watch --onSuccess 'node ./dist/index.js'",
+    "start": "yarn build && node ./dist/index.js",
     "clean": "rimraf ./dist",
     "prepublish": "yarn build",
     "lint": "biome format .",

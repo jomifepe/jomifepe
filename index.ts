@@ -1,36 +1,42 @@
 #! /usr/bin/env node
 
-import { select } from "@inquirer/prompts";
+import { select as ask } from "@inquirer/prompts";
 import chalk from "chalk";
-import boxen from "boxen";
+import box from "boxen";
 import open from "open";
 
+process.on("SIGINT", bye);
+process.on("SIGTERM", bye);
+process.on("uncaughtException", (error) => {
+  if (error.name === "ExitPromptError") {
+    bye();
+  } else {
+    console.error(error);
+    process.exit(1);
+  }
+});
+
 const handle = "jomifepe";
-const location = `${chalk.green("Po")}${chalk.yellow("rt")}${chalk.red("ugal")}`;
-
-const work = {
-  company: "Prismic",
-  role: "Software Engineer",
-};
-
-export const data = {
+export const info = {
   handle,
   name: "José Pereira",
+  location: "Portugal",
   contact: `contact@${handle}.dev`,
-  tools: "TypeScript, React, Node.js",
+  role: "Software Engineer",
+  company: "Prismic",
   links: {
-    web: `${chalk.grey("https://")}${chalk.magenta(handle)}${chalk.grey(".dev")}`,
-    github: `${chalk.grey("https://github.com/")}${chalk.green(handle)}`,
-    twitter: `${chalk.grey("https://twitter.com/")}${chalk.cyan(handle)}`,
-    npm: `${chalk.grey("https://npmjs.com/~")}${chalk.red(handle)}`,
-    linkedin: `${chalk.grey("https://linkedin.com/in/")}${chalk.blue(handle)}`,
-    medium: `${chalk.grey("https://medium.com/@")}${chalk.white(handle)}`,
-    dev: `${chalk.grey("https://dev.to/")}${chalk.white(handle)}`,
+    web: `https://${handle}.dev`,
+    github: `https://github.com/${handle}`,
+    twitter: `https://twitter.com/${handle}`,
+    npm: `https://npmjs.com/~${handle}`,
+    linkedin: `https://linkedin.com/in/${handle}`,
+    medium: `https://medium.com/@${handle}`,
+    dev: `https://dev.to/${handle}`,
   },
   npx: `npx ${handle}`,
 };
 
-type Link = keyof typeof data.links;
+type Link = keyof typeof info.links;
 
 const linkLabels: Record<Link, string> = {
   web: "Web",
@@ -42,72 +48,79 @@ const linkLabels: Record<Link, string> = {
   dev: "Dev",
 };
 
-const me = boxen(
-  [
-    chalk.white(`${chalk.bold(data.name)} / ${chalk.green(chalk.bold(data.handle))}`),
-    ``,
-    `   ${chalk.white(`Location:  ${chalk.bold(location)}`)}`,
-    `       ${chalk.white(`Work:  ${work.role} at ${chalk.blueBright(chalk.bold(work.company))}`)}`,
-    ``,
-    `        ${chalk.white(`${linkLabels.web}:  ${data.links.web}`)}`,
-    `     ${chalk.white(`${linkLabels.github}:  ${data.links.github}`)}`,
-    `    ${chalk.white(`${linkLabels.twitter}:  ${data.links.twitter}`)}`,
-    `   ${chalk.white(`${linkLabels.linkedin}:  ${data.links.linkedin}`)}`,
-    `        ${chalk.white(`${linkLabels.npm}:  ${data.links.npm}`)}`,
-    `     ${chalk.white(`${linkLabels.medium}:  ${data.links.medium}`)}`,
-    `        ${chalk.white(`${linkLabels.dev}:  ${data.links.dev}`)}`,
-    ``,
-    `       ${chalk.white(`Card:  ${chalk.greenBright(data.npx)}`)}`,
-  ].join("\n"),
-  {
+const card = `${chalk.white(`${chalk.bold(info.name)} / ${chalk.green(chalk.bold(info.handle))}`)}
+
+   ${chalk.white(`Location:  ${tugaify(info.location)}`)}
+       ${chalk.white(`Work:  ${info.role} at ${chalk.blueBright(chalk.bold(info.company))}`)}
+   
+        ${chalk.white(`${linkLabels.web}:  ${colorizeLink(info.links.web, "magenta")}`)}
+     ${chalk.white(`${linkLabels.github}:  ${colorizeLink(info.links.github, "green")}`)}
+    ${chalk.white(`${linkLabels.twitter}:  ${colorizeLink(info.links.twitter, "cyan")}`)}
+   ${chalk.white(`${linkLabels.linkedin}:  ${colorizeLink(info.links.linkedin, "blue")}`)}
+        ${chalk.white(`${linkLabels.npm}:  ${colorizeLink(info.links.npm, "red")}`)}
+     ${chalk.white(`${linkLabels.medium}:  ${colorizeLink(info.links.medium, "white")}`)}
+        ${chalk.white(`${linkLabels.dev}:  ${colorizeLink(info.links.dev, "white")}`)}
+    
+       ${chalk.white(`Card:  ${chalk.greenBright(info.npx)}`)}`;
+
+console.info(
+  box(card, {
     margin: { top: 1, bottom: 1 },
     padding: 1,
     borderStyle: "round",
     borderColor: "blue",
     width: 70,
-  },
+  }),
 );
 
-console.info(me);
-
-const option = await select<"email" | "link" | "quit">({
+const option = await ask({
   message: "What do you want to do?",
   choices: [
     { value: "email", name: "Send me an email" },
     { value: "link", name: "Open one of the links" },
     { value: "quit", name: "Quit" },
-  ],
+  ] as const,
 });
 
-type LinkChoice = {
-  value: Link;
-  name: string;
-};
-
-console.log();
-
-if (option === "email") {
-  open(`mailto:${data.contact}`);
-  console.log("📧 Looking forward to hearing from you!");
-} else if (option === "link") {
-  const link = await select<Link>({
-    message: "Which link do you want to open?",
-    choices: Object.keys(data.links).map(
-      (link): LinkChoice => ({
+switch (option) {
+  case "email": {
+    open(`mailto:${info.contact}`);
+    console.log("\n📧 Looking forward to hearing from you!\n");
+    break;
+  }
+  case "link": {
+    const link = await ask({
+      message: "Which link do you want to open?",
+      choices: Object.keys(info.links).map((link) => ({
         value: link as Link,
         name: linkLabels[link as Link],
-      }),
-    ),
-  });
+      })),
+    });
 
-  open(stripChalk(data.links[link]));
-} else {
-  console.log("👋 See you");
+    open(info.links[link]);
+    bye();
+    break;
+  }
+  case "quit": {
+    bye();
+    break;
+  }
 }
 
-process.exit(0);
+function colorizeLink(link: string, style: "red" | "green" | "blue" | "magenta" | "cyan" | "white") {
+  return chalk.grey(link.replace(new RegExp(info.handle, "gi"), (match) => chalk[style](match)));
+}
 
-function stripChalk(str: string): string {
-  // biome-ignore lint/suspicious/noControlCharactersInRegex: 🤷
-  return str.replace(/\u001B\[[0-9]{1,2}m/g, "");
+function tugaify(value: string) {
+  return value.replace(/portugal/gi, (match) => {
+    return match
+      .replace(/po/gi, (match) => chalk.green(match))
+      .replace(/rt/gi, (match) => chalk.yellow(match))
+      .replace(/ugal/gi, (match) => chalk.red(match));
+  });
+}
+
+function bye() {
+  console.log("\n👋 See you around.\n");
+  process.exit(0);
 }
