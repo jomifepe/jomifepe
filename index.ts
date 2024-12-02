@@ -58,12 +58,11 @@ const me = boxen(
     `        ${chalk.white(`${linkLabels.dev}:  ${data.links.dev}`)}`,
     ``,
     `       ${chalk.white(`Card:  ${chalk.greenBright(data.npx)}`)}`,
-    ``,
   ].join("\n"),
   {
     margin: { top: 1, bottom: 1 },
     padding: 1,
-    borderStyle: "single",
+    borderStyle: "round",
     borderColor: "blue",
     width: 70,
   },
