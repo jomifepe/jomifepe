@@ -9,13 +9,13 @@ I'm a Software Engineer from Portugal 🇵🇹
 
 ### Frequency
 
-[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/5e5ba0ab-6993-4550-bf58-e0f08d623586.svg)](wakatime.com#gh-dark-mode-only)
-[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/5f4ea6fe-ea86-49f4-a845-8635f008bf21.svg)](wakatime.com#gh-light-mode-only)
+[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/5e5ba0ab-6993-4550-bf58-e0f08d623586.svg)](https://wakatime.com#gh-dark-mode-only)
+[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/5f4ea6fe-ea86-49f4-a845-8635f008bf21.svg)](https://wakatime.com#gh-light-mode-only)
 
 ### Languages
 
-[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/d8c70fae-1078-4284-8060-8cfbcd21465c.svg)](wakatime.com#gh-dark-mode-only)
-[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/7de3d39a-cce5-4529-96f3-4d74238b334d.svg)](wakatime.com#gh-light-mode-only)
+[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/d8c70fae-1078-4284-8060-8cfbcd21465c.svg)](https://wakatime.com#gh-dark-mode-only)
+[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/7de3d39a-cce5-4529-96f3-4d74238b334d.svg)](https://wakatime.com#gh-light-mode-only)
 
 </details>
 
