@@ -5,7 +5,7 @@ I'm a Software Engineer from Portugal 🇵🇹
 💙 &nbsp;Likely building **web** or **hybrid mobile apps** using **TypeScript** and some form of **React** or **React Native**.
 
 <details>
-<summary>Coding Activity</summary>
+<summary>Coding Activity (not just GitHub's)</summary>
 
 ### Frequency
 
