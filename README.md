@@ -5,7 +5,7 @@ I'm a Software Engineer from Portugal 🇵🇹
 💙 &nbsp;Likely building **web** or **hybrid mobile apps** using **TypeScript** and some form of **React** or **React Native**.
 
 <details>
-<summary>📊 Coding Activity</summary>
+<summary>Coding Activity 📊</summary>
 
 ### Coding Frequency
 
@@ -39,48 +39,48 @@ npx jomifepe@latest
 
 <a href="mailto:contact@jomifepe.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/email-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/email-light.svg">
-    <img alt="Email logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/email-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/email-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/email-dark.svg">
+    <img alt="Email logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/email-dark.svg">
   </picture>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jomifepe">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/linkedin-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/linkedin-light.svg">
-    <img alt="LinkedIn logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/linkedin-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/linkedin-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/linkedin-dark.svg">
+    <img alt="LinkedIn logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/linkedin-dark.svg">
   </picture>
 </a>
 &nbsp;&nbsp;
 <a href="https://x.com/jomifepe">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/x-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/x-light.svg">
-    <img alt="X logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/x-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/x-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/x-dark.svg">
+    <img alt="X logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/x-dark.svg">
   </picture>
 </a>
 &nbsp;&nbsp;
 <a href="https://dev.to/jomifepe">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/dev-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/dev-light.svg">
-    <img alt="Dev logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/dev-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/dev-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/dev-dark.svg">
+    <img alt="Dev logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/dev-dark.svg">
   </picture>
 </a>
 &nbsp;&nbsp;
 <a href="https://medium.com/@jomifepe">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/medium-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/medium-light.svg">
-    <img alt="Medium logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/medium-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/medium-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/medium-dark.svg">
+    <img alt="Medium logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/medium-dark.svg">
   </picture>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.raycast.com/jomifepe">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/raycast-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/raycast-light.svg">
-    <img alt="Raycast logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/raycast-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/raycast-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/raycast-dark.svg">
+    <img alt="Raycast logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/raycast-dark.svg">
   </picture>
 </a>
