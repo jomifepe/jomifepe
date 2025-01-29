@@ -5,17 +5,27 @@ I'm a Software Engineer from Portugal 🇵🇹
 💙 &nbsp;Likely building **web** or **hybrid mobile apps** using **TypeScript** and some form of **React** or **React Native**.
 
 <details>
-<summary>Coding Activity (not just GitHub's)</summary>
+<summary>📊 Coding Activity</summary>
 
 ### Coding Frequency
 
-[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/5e5ba0ab-6993-4550-bf58-e0f08d623586.svg)](https://wakatime.com#gh-dark-mode-only)
-[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/5f4ea6fe-ea86-49f4-a845-8635f008bf21.svg)](https://wakatime.com#gh-light-mode-only)
-
+<a href="https://wakatime.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/5e5ba0ab-6993-4550-bf58-e0f08d623586.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/5f4ea6fe-ea86-49f4-a845-8635f008bf21.svg">
+    <img alt="Graph showing my coding activity (last year)." src="https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/5f4ea6fe-ea86-49f4-a845-8635f008bf21.svg">
+  </picture>
+</a>
+  
 ### Top Languages (all time)
 
-[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/766f1053-54e8-4059-ba44-954d543a9cae.svg)](https://wakatime.com#gh-dark-mode-only)
-[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/8b7a2bfd-0c53-49fd-9b9b-426808db2374.svg)](https://wakatime.com#gh-light-mode-only)
+<a href="https://wakatime.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/766f1053-54e8-4059-ba44-954d543a9cae.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/8b7a2bfd-0c53-49fd-9b9b-426808db2374.svg">
+    <img alt="Graph showing my top most used languages of all time." src="https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/8b7a2bfd-0c53-49fd-9b9b-426808db2374.svg">
+  </picture>
+</a>
 
 </details>
 
@@ -23,16 +33,54 @@ I'm a Software Engineer from Portugal 🇵🇹
 npx jomifepe@latest
 ```
 
+---
+
 💬 &nbsp;**Where to find me**
 
-[![linkedin logo](https://raw.githubusercontent.com/jomifepe/jomifepe/main/img/linkedin-light.svg)](https://www.linkedin.com/in/jomifepe#gh-dark-mode-only)
-[![linkedin logo](https://raw.githubusercontent.com/jomifepe/jomifepe/main/img/linkedin-dark.svg)](https://www.linkedin.com/in/jomifepe#gh-light-mode-only)
+<a href="mailto:contact@jomifepe.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/email-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/email-light.svg">
+    <img alt="Email logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/email-light.svg">
+  </picture>
+</a>
 &nbsp;&nbsp;
-[![twitter logo](https://raw.githubusercontent.com/jomifepe/jomifepe/main/img/twitter-light.svg)](https://twitter.com/jomifepe#gh-dark-mode-only)
-[![twitter logo](https://raw.githubusercontent.com/jomifepe/jomifepe/main/img/twitter-dark.svg)](https://twitter.com/jomifepe#gh-light-mode-only)
+<a href="https://www.linkedin.com/in/jomifepe">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/linkedin-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/linkedin-light.svg">
+    <img alt="LinkedIn logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/linkedin-light.svg">
+  </picture>
+</a>
 &nbsp;&nbsp;
-[![dev logo](https://raw.githubusercontent.com/jomifepe/jomifepe/main/img/dev-light.svg)](https://dev.to/jomifepe#gh-dark-mode-only)
-[![dev logo](https://raw.githubusercontent.com/jomifepe/jomifepe/main/img/dev-dark.svg)](https://dev.to/jomifepe#gh-light-mode-only)
+<a href="https://x.com/jomifepe">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/x-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/x-light.svg">
+    <img alt="X logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/x-light.svg">
+  </picture>
+</a>
 &nbsp;&nbsp;
-[![medium logo](https://raw.githubusercontent.com/jomifepe/jomifepe/main/img/medium-light.svg)](https://medium.com/@jomifepe#gh-dark-mode-only)
-[![medium logo](https://raw.githubusercontent.com/jomifepe/jomifepe/main/img/medium-dark.svg)](https://medium.com/@jomifepe#gh-light-mode-only)
+<a href="https://dev.to/jomifepe">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/dev-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/dev-light.svg">
+    <img alt="Dev logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/dev-light.svg">
+  </picture>
+</a>
+&nbsp;&nbsp;
+<a href="https://medium.com/@jomifepe">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/medium-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/medium-light.svg">
+    <img alt="Medium logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/medium-light.svg">
+  </picture>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.raycast.com/jomifepe">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/raycast-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/raycast-light.svg">
+    <img alt="Raycast logo" src="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/raycast-light.svg">
+  </picture>
+</a>
