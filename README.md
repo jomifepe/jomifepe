@@ -7,15 +7,15 @@ I'm a Software Engineer from Portugal 🇵🇹
 <details>
 <summary>Coding Activity (not just GitHub's)</summary>
 
-### Frequency
+### Coding Frequency
 
 [![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/5e5ba0ab-6993-4550-bf58-e0f08d623586.svg)](https://wakatime.com#gh-dark-mode-only)
 [![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/5f4ea6fe-ea86-49f4-a845-8635f008bf21.svg)](https://wakatime.com#gh-light-mode-only)
 
-### Languages
+### Top Languages (all time)
 
-[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/d8c70fae-1078-4284-8060-8cfbcd21465c.svg)](https://wakatime.com#gh-dark-mode-only)
-[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/7de3d39a-cce5-4529-96f3-4d74238b334d.svg)](https://wakatime.com#gh-light-mode-only)
+[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/766f1053-54e8-4059-ba44-954d543a9cae.svg)](https://wakatime.com#gh-dark-mode-only)
+[![wakatime](https://wakatime.com/share/@e43c70f4-aa53-43c9-9aaf-800f002e09d8/8b7a2bfd-0c53-49fd-9b9b-426808db2374.svg)](https://wakatime.com#gh-light-mode-only)
 
 </details>
 
