@@ -37,7 +37,7 @@ npx jomifepe@latest
 
 💬 &nbsp;**Where to find me**
 
-<a href="mailto:contact@jomifepe.dev">
+<a href="mailto:contact@jomifepe.dev" title="Email">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/email-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/email-dark.svg">
@@ -45,7 +45,7 @@ npx jomifepe@latest
   </picture>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jomifepe">
+<a href="https://www.linkedin.com/in/jomifepe" title="LinkedIn">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/linkedin-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/linkedin-dark.svg">
@@ -53,7 +53,7 @@ npx jomifepe@latest
   </picture>
 </a>
 &nbsp;&nbsp;
-<a href="https://x.com/jomifepe">
+<a href="https://x.com/jomifepe" title="X">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/x-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/x-dark.svg">
@@ -61,7 +61,7 @@ npx jomifepe@latest
   </picture>
 </a>
 &nbsp;&nbsp;
-<a href="https://dev.to/jomifepe">
+<a href="https://dev.to/jomifepe" title="Dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/dev-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/dev-dark.svg">
@@ -69,7 +69,7 @@ npx jomifepe@latest
   </picture>
 </a>
 &nbsp;&nbsp;
-<a href="https://medium.com/@jomifepe">
+<a href="https://medium.com/@jomifepe" title="Medium">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/medium-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/medium-dark.svg">
@@ -77,7 +77,7 @@ npx jomifepe@latest
   </picture>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.raycast.com/jomifepe">
+<a href="https://www.raycast.com/jomifepe" title="Raycast">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/raycast-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomifepe/jomifepe/main/assets/raycast-dark.svg">
